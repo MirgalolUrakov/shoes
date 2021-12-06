@@ -1,0 +1,76 @@
+html{
+font-size: 10px;
+}
+body{
+font-size: 25px;
+margin: 15px;
+padding: 20px;
+background: rgba(71, 181, 88, 1);
+
+}
+
+.header {
+display: flex;
+align-items: center;
+max-width: 100%;
+max-width: 1000px;
+margin: 0 auto;
+justify-content: space-between;
+
+}
+
+
+
+.li {
+    margin-left: 30rem;
+     color: white;
+  }
+
+
+section.bunner {
+size: 100px;
+color: white;
+}
+
+div.the wobat {
+height: 50px;
+  widht: 50px;
+
+}
+.image1 {
+  position: relative;
+  top: 0;
+  left: 50rem;
+ height: 200px;
+  widht: 200px;
+}
+.image2 {
+  position: absolute;
+  top: 1rem;
+  left: 67rem;
+  size: 200px;
+  height: 600px;
+  widht: 600px;
+}
+div.apps {
+display: flex;
+margin-left: 150rem;
+}
+
+li.nav_item {
+margin-left: 130rem;
+display: flex;
+}
+a {
+margin-left: 3rem;
+}
+div.text{
+margin-left: 40rem;
+}
+  
+img.image3{
+height: 30px;
+widht: 30px;
+margin-left: 40rem;
+margin-botom: 35rem;
+}
